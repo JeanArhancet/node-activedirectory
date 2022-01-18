@@ -18,9 +18,7 @@ tap.test('Utility functions', t => {
       t.equal(output, 'CN=\\ Max Mustermann\\\\2A,OU=Test \\\\2812345\\\\29,OU=Users,OU=Local Resources,OU=DEDUS,DC=abc,DC=dom')
       t.end()
     })
-
     t.end()
   })
-
   t.end()
 })
